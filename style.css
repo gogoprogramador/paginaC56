@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #0011ff
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+    
+.imagen{
+    width:600px;
+}
+
+h1 {
+color: aqua;
+}
+
+div{
+    margin-top: 17px;
+}
+
+.section-style{
+   margin-right: 26px;
+    margin-left: 27px; 
+     background-color: white;
+}
